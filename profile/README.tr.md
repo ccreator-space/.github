@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../images/logo.png" alt="ccreator Logo" width="150" />
+  <img src="../images/logoWhite.png" alt="ccreator Logo" width="150" />
   <br />
   <p>
     <strong>Modern içerik üreticileri için açık kaynaklı araçlar ve iş akışları.</strong>
