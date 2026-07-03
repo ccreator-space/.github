@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../images/logo.png" alt="ccreator Logo" width="150" />
+  <img src="../images/logoWhite.png" alt="ccreator Logo" width="150" />
   <br />
   <p>
     <strong>Open-source tools and workflows for modern content creators.</strong>
